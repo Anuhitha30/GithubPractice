@@ -8,6 +8,7 @@ public class Class1test {
 	@Test
 	public void class1() {
 		Reporter.log("*****************Hi This is Maven*****************",true);
+		Reporter.log("*****************Hi This is Maven*****************",true);
 	}
 }
 
